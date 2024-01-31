@@ -1,0 +1,172 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+}
+h1{
+    font-size: 2.5rem;
+    text-align: center;
+}
+a{
+    color: #fff;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+.navbar{
+    background-color: #0c6168;
+    padding: 1% 7%;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.nav-links a{
+    text-decoration: none;
+    padding: 10px;
+    justify-content: space-between;
+}
+.nav-title{
+    color: darksalmon;
+}
+.nav-links a:hover{
+    color: darkseagreen;
+    transition: .3s ease-in-out;
+}
+.cta-title{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cta-btn{
+    text-align: center;
+    height: 40px;
+   cursor: pointer;
+   background-color: gold;
+   border-radius: 10px;
+   color: darkblue;
+}
+.cta-btn:hover{
+    background-color: darkorange;
+    transition: .5s ease-in-out;
+    transform: scale(1.1);
+}
+.about-me {
+    padding: 50px 0;
+    background-color: #f5f5f5;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  span {
+    font-weight: 300;
+  }
+  
+  p.intro {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .column {
+    flex: 1;
+    padding: 15px;
+  }
+  #Home{
+    background-color: brown;
+    padding: 10px;
+    height:400px;
+  }
+  h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .sub-title{
+    font-size: 20px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  p.call-to-action {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 30px;
+  }
+  
+  /* Customize the styles below to match your website's overall design and feel. */
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  a {
+    color: #007bff;
+  }
+  .about-heading{
+    font-size: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .skills-heading{
+    font-size: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;;
+  }
+  #skills{
+    background-color: antiquewhite;
+    padding: 10px;
+  }
+  .first{
+    width: 30%;
+    height: 400px;
+    background-color: #007bff;
+    border-radius: 10px;
+  }
+  .second{
+    width: 30%;
+    height: 400px;
+    background-color: #007bff;
+    border-radius: 10px;
+  }
+  .third{
+    width: 30%;
+    height: 400px;
+    background-color: #007bff;
+    border-radius: 10px;
+  }
+  .cards{
+    display: flex;
+    justify-content: space-between;
+  }
+  .skill-sub-title{
+    text-align: center;
+  }
+  .first-skill-sub-heading{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkred;
+  }
+  .second-skill-sub-heading{
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkred;
+  }
+
+  
+  
